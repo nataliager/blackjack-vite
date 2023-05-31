@@ -10,4 +10,5 @@ Pasos para ejecutar proyecto:
 ## produccion 
 1. Ejecutar ```npm run build```
 2. tomar la carpeta dist y desplegarla
+3. Fin
 
